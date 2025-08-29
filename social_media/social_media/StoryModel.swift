@@ -1,2 +1,5 @@
-bplist00Ø	
-_LastProactiveTime_+avengers_geotagging_data_collection_monitor]CleanShutdown_#LastUploadTimeCLSubHarvesterAvenger_LastFenceActivityTimestamp_avengers_
+import Foundation
+struct StoryModel{
+    var id: String
+    var imageData: Data
+}
